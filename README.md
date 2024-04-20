@@ -19,7 +19,7 @@ Screenshots
 Development
 ============
 
-- Wiki and 
+- Wiki will be created soon
 
 Installation
 ============
