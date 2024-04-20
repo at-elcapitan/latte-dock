@@ -4,6 +4,11 @@ Latte is a dock based on plasma frameworks that provides an elegant and intuitiv
 
 **"Art in Coffee"**
 
+About `elcapitan/kf6-qt6 branch`
+=====
+
+This is my attempt to port Latte Dock to KDE Plasma 6.
+
 Screenshots
 ===========
 
@@ -14,27 +19,14 @@ Screenshots
 Development
 ============
 
-- Official KDE repo in which you can also send your MRs is located at: https://invent.kde.org/plasma/latte-dock
-- Bug reports can be send at: https://bugs.kde.org/enter_bug.cgi?product=lattedock
-
+- Wiki and 
 
 Installation
 ============
 
 ## Requirements
 
-We need to use at least:
-
-- **Plasma >= 5.24.0**
-- **PlasmaWaylandProtocols >= 1.6.0**
-- **Qt >= 5.15**
-
-Minimum requirements:
-
-**tools:**
-```
- bash
-```
+Under development...
 
 **development packages for:**
 ```
@@ -69,53 +61,3 @@ Minimum requirements:
     libxcb-shape
     libSM
 ```
-
-## From repositories
-
-### Ubuntu/Debian
-
-- [Ubuntu](https://packages.ubuntu.com/bionic/latte-dock)
-
-### openSUSE
-
-- [openSUSE](https://software.opensuse.org/package/latte-dock?search_term=latte+dock)
-- [psifidotos - OBS](https://software.opensuse.org//download.html?project=home%3Apsifidotos&package=latte-dock)
-
-### Fedora
-
-- [Fedora](https://koji.fedoraproject.org/koji/packageinfo?packageID=24229)
-
-### Arch Linux
-
-- [Arch Linux](https://www.archlinux.org/packages/?sort=&q=latte-dock)
-
-### Gentoo
-
-- [Gentoo](https://packages.gentoo.org/packages/kde-misc/latte-dock)
-
-### Solus Project
-
-- [Solus](https://packages.solus-project.com/shannon/l/latte-dock/)
-
-### Void Linux
-
-- [Void Linux](https://github.com/void-linux/void-packages/tree/master/srcpkgs/latte-dock)
-
-### FreeBSD
-- [FreeBSD Port](https://www.freshports.org/deskutils/latte-dock/)
-
-See the [installation instruction](./INSTALLATION.md) for others Linux distribution or development build
-
-## Run Latte-Dock
-
-Latte is now ready to be used by executing
-```
-latte-dock
-```
-
-or activating **Latte Dock** from applications menu.
-
-
-Contributors
-============
-[Varlesh](https://github.com/varlesh): Logos and Icons.
